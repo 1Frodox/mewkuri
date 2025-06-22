@@ -1,7 +1,7 @@
 # Terms of Service (ToS)
 
 1. **Acceptance of Terms**  
-   By using this Discord bot ("Mewkuri"), you explicitly agree to these Terms of Service and our [Privacy Policy](./PRIVACY_POLICY.md).
+   By using this Discord bot ("the bot"), you explicitly agree to these Terms of Service and our [Privacy Policy](./PRIVACY_POLICY.md).
 
 2. **Use of the Bot**  
    You may use the Bot only for lawful purposes and in accordance with these Terms. You agree not to misuse the Bot or use it in any way that could harm others or violate applicable laws, the [Discord Terms of Service](https://discord.com/terms), or community guidelines.
